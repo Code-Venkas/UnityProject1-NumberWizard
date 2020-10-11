@@ -2,5 +2,5 @@
 
 ## Project Objective: 
 
-Learn about the structure of C# (Namespaces, Classes, Methods,Statements)
-The importance of Scope and correctly declaring Variables.
+1. Learn about the structure of C# (Namespaces, Classes, Methods,Statements)
+2. The importance of Scope and correctly declaring Variables.
